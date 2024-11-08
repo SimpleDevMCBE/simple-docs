@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkazalea=self.webpackChunkazalea||[]).push([[5154],{5152:a=>{a.exports=JSON.parse('{"blogBasePath":"/addons","blogTitle":"Blog"}')}}]);

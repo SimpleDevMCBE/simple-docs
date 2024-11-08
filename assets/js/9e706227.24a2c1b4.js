@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkazalea=self.webpackChunkazalea||[]).push([[2469],{8551:a=>{a.exports=JSON.parse('{"permalink":"/addons/tags/essentials","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

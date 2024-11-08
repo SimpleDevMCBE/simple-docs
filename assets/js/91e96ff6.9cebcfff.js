@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkazalea=self.webpackChunkazalea||[]).push([[7951],{2403:a=>{a.exports=JSON.parse('{"label":"v2.2","permalink":"/blog/tags/v-2-2","allTagsPath":"/blog/tags","count":1,"unlisted":false}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkazalea=self.webpackChunkazalea||[]).push([[7832],{8194:a=>{a.exports=JSON.parse('{"label":"Bedwars","permalink":"/blog/tags/bedwars","allTagsPath":"/blog/tags","count":1,"unlisted":false}')}}]);

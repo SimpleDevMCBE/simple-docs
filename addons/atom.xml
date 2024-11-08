@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://simple.amethystdev.com/addons</id>
+    <title>Simple Essentials Blog</title>
+    <updated>2024-04-21T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://simple.amethystdev.com/addons"/>
+    <subtitle>Simple Essentials Blog</subtitle>
+    <icon>https://simple.amethystdev.com/img/</icon>
+    <entry>
+        <title type="html"><![CDATA[Azalea V2.2 Beta 1]]></title>
+        <id>https://simple.amethystdev.com/addons/azalea</id>
+        <link href="https://simple.amethystdev.com/addons/azalea"/>
+        <updated>2024-04-21T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This is probably the main reasons you are even here.]]></summary>
+        <content type="html"><![CDATA[<p><img decoding="async" loading="lazy" src="https://simple.amethystdev.com/assets/images/azalea_essentials_basic-norot-0ac4426cdbc31052f8cc721605fccc26.png" width="1920" height="984" class="img_ev3q"></p>
+<p>This is probably the main reasons you are even here.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="azalea-essentials-is-the-best-essentials-addon-for-minecraft-bedrock-edition">Azalea Essentials is the best essentials addon for Minecraft Bedrock Edition<a href="https://simple.amethystdev.com/addons/azalea#azalea-essentials-is-the-best-essentials-addon-for-minecraft-bedrock-edition" class="hash-link" aria-label="Direct link to Azalea Essentials is the best essentials addon for Minecraft Bedrock Edition" title="Direct link to Azalea Essentials is the best essentials addon for Minecraft Bedrock Edition">​</a></h2>
+<p>if you disagree, you're probably right lmao</p>]]></content>
+        <author>
+            <name>THE WISE DATA FISH</name>
+            <uri>https://azalea.trashdev.org</uri>
+        </author>
+        <category label="essentials" term="essentials"/>
+    </entry>
+</feed>

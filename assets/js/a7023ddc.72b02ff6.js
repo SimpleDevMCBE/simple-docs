@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkazalea=self.webpackChunkazalea||[]).push([[9267],{8289:a=>{a.exports=JSON.parse('[{"label":"Bedwars","permalink":"/blog/tags/bedwars","count":1},{"label":"v2.2","permalink":"/blog/tags/v-2-2","count":1},{"label":"special","permalink":"/blog/tags/special","count":1},{"label":"updates","permalink":"/blog/tags/updates","count":2}]')}}]);

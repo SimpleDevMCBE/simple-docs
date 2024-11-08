@@ -1,0 +1,82 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Feed",
+    "home_page_url": "https://simple.amethystdev.com/blog",
+    "items": [
+        {
+            "id": "https://simple.amethystdev.com/blog/Slug",
+            "content_html": "<p>Bedwars Is Cool So i Wanted To Make It My Self But My Dumb As Dosent Know How To Build So I Would Love Help With Building The Maps And Lobby If You Want To Help Dm On Discord :)</p>",
+            "url": "https://simple.amethystdev.com/blog/Slug",
+            "title": "Bedwars",
+            "summary": "Bedwars Is Cool So i Wanted To Make It My Self But My Dumb As Dosent Know How To Build So I Would Love Help With Building The Maps And Lobby If You Want To Help Dm On Discord :)",
+            "date_modified": "2024-04-09T00:00:00.000Z",
+            "author": {
+                "name": "RexyCloudy",
+                "url": "https://www.youtube.com/watch?v=xvFZjo5PgG0"
+            },
+            "tags": [
+                "Bedwars"
+            ]
+        },
+        {
+            "id": "https://simple.amethystdev.com/blog/azalea-v2.2-format",
+            "content_html": "<p>Azalea has recently removed old sidebar and chat formats and has added a new system, go check it out!  (released in versions 2.2+)</p>\n<p>New default chat rank formats:</p>\n<p><code>{{has_tag staffchat \"&lt;bc&gt;[&lt;nc&gt;StaffChat&lt;bc&gt;] \" \"&lt;bl&gt;\"}}§r&lt;bc&gt;[{{rank_joiner \"&lt;drj&gt;\"}}§r&lt;bc&gt;] §r&lt;nc&gt;&lt;name&gt; §r&lt;bc&gt;&lt;dra&gt; §r&lt;mc&gt;&lt;msg&gt;</code></p>\n<p>For the sidebar, the format is shown in the admin panel.</p>\n<p>We've added this to make it easier for users to setup stuff to their liking, these new formats can almost be used everywhere across the add-on!</p>",
+            "url": "https://simple.amethystdev.com/blog/azalea-v2.2-format",
+            "title": "New Formats",
+            "summary": "Azalea has recently removed old sidebar and chat formats and has added a new system, go check it out!  (released in versions 2.2+)",
+            "date_modified": "2024-04-09T00:00:00.000Z",
+            "author": {
+                "name": "Voltrex ",
+                "url": "https://azalea.trashdev.org/voltrex"
+            },
+            "tags": [
+                "v2.2"
+            ]
+        },
+        {
+            "id": "https://simple.amethystdev.com/blog/Trash-gay",
+            "content_html": "<p>I'm officially coming out gay 🌈 I hope you support me daddies :3</p>",
+            "url": "https://simple.amethystdev.com/blog/Trash-gay",
+            "title": "Guys please support me",
+            "summary": "I'm officially coming out gay 🌈 I hope you support me daddies :3",
+            "date_modified": "2024-04-08T00:00:00.000Z",
+            "author": {
+                "name": "Voltrex",
+                "url": "https://azalea.trashdev.org/voltrex"
+            },
+            "tags": [
+                "special"
+            ]
+        },
+        {
+            "id": "https://simple.amethystdev.com/blog/trash",
+            "content_html": "<p>This is where you can get development builds now! have fun</p>",
+            "url": "https://simple.amethystdev.com/blog/trash",
+            "title": "New Version Archive",
+            "summary": "This is where you can get development builds now! have fun",
+            "date_modified": "2024-04-08T00:00:00.000Z",
+            "author": {
+                "name": "TRASH",
+                "url": "https://github.com/Ant767"
+            },
+            "tags": [
+                "updates"
+            ]
+        },
+        {
+            "id": "https://simple.amethystdev.com/blog/blog-update",
+            "content_html": "<p>I now have a content management system for blog posts!</p>\n<hr>\n<p>I spent so long making this update you better fucking like it</p>",
+            "url": "https://simple.amethystdev.com/blog/blog-update",
+            "title": "Blog update",
+            "summary": "I now have a content management system for blog posts!",
+            "date_modified": "2021-11-15T00:00:00.000Z",
+            "author": {
+                "name": "TRASH",
+                "url": "https://github.com/Ant767"
+            },
+            "tags": [
+                "updates"
+            ]
+        }
+    ]
+}

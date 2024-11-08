@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Feed</title>
+        <link>https://simple.amethystdev.com/blog</link>
+        <description></description>
+        <lastBuildDate>Tue, 09 Apr 2024 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>en</language>
+        <item>
+            <title><![CDATA[Bedwars]]></title>
+            <link>https://simple.amethystdev.com/blog/Slug</link>
+            <guid>https://simple.amethystdev.com/blog/Slug</guid>
+            <pubDate>Tue, 09 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Bedwars Is Cool So i Wanted To Make It My Self But My Dumb As Dosent Know How To Build So I Would Love Help With Building The Maps And Lobby If You Want To Help Dm On Discord :)]]></description>
+            <content:encoded><![CDATA[<p>Bedwars Is Cool So i Wanted To Make It My Self But My Dumb As Dosent Know How To Build So I Would Love Help With Building The Maps And Lobby If You Want To Help Dm On Discord :)</p>]]></content:encoded>
+            <category>Bedwars</category>
+        </item>
+        <item>
+            <title><![CDATA[New Formats]]></title>
+            <link>https://simple.amethystdev.com/blog/azalea-v2.2-format</link>
+            <guid>https://simple.amethystdev.com/blog/azalea-v2.2-format</guid>
+            <pubDate>Tue, 09 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Azalea has recently removed old sidebar and chat formats and has added a new system, go check it out!  (released in versions 2.2+)]]></description>
+            <content:encoded><![CDATA[<p>Azalea has recently removed old sidebar and chat formats and has added a new system, go check it out!  (released in versions 2.2+)</p>
+<p>New default chat rank formats:</p>
+<p><code>{{has_tag staffchat "&lt;bc&gt;[&lt;nc&gt;StaffChat&lt;bc&gt;] " "&lt;bl&gt;"}}§r&lt;bc&gt;[{{rank_joiner "&lt;drj&gt;"}}§r&lt;bc&gt;] §r&lt;nc&gt;&lt;name&gt; §r&lt;bc&gt;&lt;dra&gt; §r&lt;mc&gt;&lt;msg&gt;</code></p>
+<p>For the sidebar, the format is shown in the admin panel.</p>
+<p>We've added this to make it easier for users to setup stuff to their liking, these new formats can almost be used everywhere across the add-on!</p>]]></content:encoded>
+            <category>v2.2</category>
+        </item>
+        <item>
+            <title><![CDATA[Guys please support me]]></title>
+            <link>https://simple.amethystdev.com/blog/Trash-gay</link>
+            <guid>https://simple.amethystdev.com/blog/Trash-gay</guid>
+            <pubDate>Mon, 08 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[I'm officially coming out gay 🌈 I hope you support me daddies :3]]></description>
+            <content:encoded><![CDATA[<p>I'm officially coming out gay 🌈 I hope you support me daddies :3</p>]]></content:encoded>
+            <category>special</category>
+        </item>
+        <item>
+            <title><![CDATA[New Version Archive]]></title>
+            <link>https://simple.amethystdev.com/blog/trash</link>
+            <guid>https://simple.amethystdev.com/blog/trash</guid>
+            <pubDate>Mon, 08 Apr 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[This is where you can get development builds now! have fun]]></description>
+            <content:encoded><![CDATA[<p>This is where you can get development builds now! have fun</p>]]></content:encoded>
+            <category>updates</category>
+        </item>
+        <item>
+            <title><![CDATA[Blog update]]></title>
+            <link>https://simple.amethystdev.com/blog/blog-update</link>
+            <guid>https://simple.amethystdev.com/blog/blog-update</guid>
+            <pubDate>Mon, 15 Nov 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[I now have a content management system for blog posts!]]></description>
+            <content:encoded><![CDATA[<p>I now have a content management system for blog posts!</p>
+<hr>
+<p>I spent so long making this update you better fucking like it</p>]]></content:encoded>
+            <category>updates</category>
+        </item>
+    </channel>
+</rss>

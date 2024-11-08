@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://simple.amethystdev.com/blog</id>
+    <title>Feed</title>
+    <updated>2024-04-09T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://simple.amethystdev.com/blog"/>
+    <icon>https://simple.amethystdev.com/img/</icon>
+    <entry>
+        <title type="html"><![CDATA[Bedwars]]></title>
+        <id>https://simple.amethystdev.com/blog/Slug</id>
+        <link href="https://simple.amethystdev.com/blog/Slug"/>
+        <updated>2024-04-09T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Bedwars Is Cool So i Wanted To Make It My Self But My Dumb As Dosent Know How To Build So I Would Love Help With Building The Maps And Lobby If You Want To Help Dm On Discord :)]]></summary>
+        <content type="html"><![CDATA[<p>Bedwars Is Cool So i Wanted To Make It My Self But My Dumb As Dosent Know How To Build So I Would Love Help With Building The Maps And Lobby If You Want To Help Dm On Discord :)</p>]]></content>
+        <author>
+            <name>RexyCloudy</name>
+            <uri>https://www.youtube.com/watch?v=xvFZjo5PgG0</uri>
+        </author>
+        <category label="Bedwars" term="Bedwars"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Formats]]></title>
+        <id>https://simple.amethystdev.com/blog/azalea-v2.2-format</id>
+        <link href="https://simple.amethystdev.com/blog/azalea-v2.2-format"/>
+        <updated>2024-04-09T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Azalea has recently removed old sidebar and chat formats and has added a new system, go check it out!  (released in versions 2.2+)]]></summary>
+        <content type="html"><![CDATA[<p>Azalea has recently removed old sidebar and chat formats and has added a new system, go check it out!  (released in versions 2.2+)</p>
+<p>New default chat rank formats:</p>
+<p><code>{{has_tag staffchat "&lt;bc&gt;[&lt;nc&gt;StaffChat&lt;bc&gt;] " "&lt;bl&gt;"}}§r&lt;bc&gt;[{{rank_joiner "&lt;drj&gt;"}}§r&lt;bc&gt;] §r&lt;nc&gt;&lt;name&gt; §r&lt;bc&gt;&lt;dra&gt; §r&lt;mc&gt;&lt;msg&gt;</code></p>
+<p>For the sidebar, the format is shown in the admin panel.</p>
+<p>We've added this to make it easier for users to setup stuff to their liking, these new formats can almost be used everywhere across the add-on!</p>]]></content>
+        <author>
+            <name>Voltrex </name>
+            <uri>https://azalea.trashdev.org/voltrex</uri>
+        </author>
+        <category label="v2.2" term="v2.2"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Guys please support me]]></title>
+        <id>https://simple.amethystdev.com/blog/Trash-gay</id>
+        <link href="https://simple.amethystdev.com/blog/Trash-gay"/>
+        <updated>2024-04-08T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[I'm officially coming out gay 🌈 I hope you support me daddies :3]]></summary>
+        <content type="html"><![CDATA[<p>I'm officially coming out gay 🌈 I hope you support me daddies :3</p>]]></content>
+        <author>
+            <name>Voltrex</name>
+            <uri>https://azalea.trashdev.org/voltrex</uri>
+        </author>
+        <category label="special" term="special"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Version Archive]]></title>
+        <id>https://simple.amethystdev.com/blog/trash</id>
+        <link href="https://simple.amethystdev.com/blog/trash"/>
+        <updated>2024-04-08T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This is where you can get development builds now! have fun]]></summary>
+        <content type="html"><![CDATA[<p>This is where you can get development builds now! have fun</p>]]></content>
+        <author>
+            <name>TRASH</name>
+            <uri>https://github.com/Ant767</uri>
+        </author>
+        <category label="updates" term="updates"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Blog update]]></title>
+        <id>https://simple.amethystdev.com/blog/blog-update</id>
+        <link href="https://simple.amethystdev.com/blog/blog-update"/>
+        <updated>2021-11-15T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[I now have a content management system for blog posts!]]></summary>
+        <content type="html"><![CDATA[<p>I now have a content management system for blog posts!</p>
+<hr>
+<p>I spent so long making this update you better fucking like it</p>]]></content>
+        <author>
+            <name>TRASH</name>
+            <uri>https://github.com/Ant767</uri>
+        </author>
+        <category label="updates" term="updates"/>
+    </entry>
+</feed>
