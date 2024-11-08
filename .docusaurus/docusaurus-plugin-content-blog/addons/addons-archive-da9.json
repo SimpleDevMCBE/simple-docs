@@ -1,0 +1,49 @@
+{
+  "blogPosts": [
+    {
+      "id": "azalea",
+      "metadata": {
+        "permalink": "/addons/azalea",
+        "source": "@site/addons/2024-04-21-azalea-v2-2-beta-1.md",
+        "title": "Azalea V2.2 Beta 1",
+        "description": "This is probably the main reasons you are even here.",
+        "date": "2024-04-21T00:00:00.000Z",
+        "tags": [
+          {
+            "label": "essentials",
+            "permalink": "/addons/tags/essentials"
+          }
+        ],
+        "readingTime": 0.15,
+        "hasTruncateMarker": false,
+        "authors": [
+          {
+            "name": "THE WISE DATA FISH",
+            "url": "https://azalea.trashdev.org",
+            "image_url": "/img/the-wise-data-fish.png",
+            "title": "THE WISE DATA FISH",
+            "imageURL": "/img/the-wise-data-fish.png"
+          }
+        ],
+        "frontMatter": {
+          "title": "Azalea V2.2 Beta 1",
+          "slug": "azalea",
+          "tags": [
+            "essentials"
+          ],
+          "authors": [
+            {
+              "name": "THE WISE DATA FISH",
+              "url": "https://azalea.trashdev.org",
+              "image_url": "/img/the-wise-data-fish.png",
+              "title": "THE WISE DATA FISH",
+              "imageURL": "/img/the-wise-data-fish.png"
+            }
+          ]
+        },
+        "unlisted": false
+      },
+      "content": "![](/img/azalea_essentials_basic-norot.png)\r\n\r\nThis is probably the main reasons you are even here.\r\n\r\n## Azalea Essentials is the best essentials addon for Minecraft Bedrock Edition\r\n\r\nif you disagree, you're probably right lmao"
+    }
+  ]
+}

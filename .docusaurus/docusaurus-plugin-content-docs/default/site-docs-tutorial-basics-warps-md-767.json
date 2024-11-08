@@ -1,0 +1,22 @@
+{
+  "id": "tutorial-basics/warps",
+  "title": "Setting up Warps",
+  "description": "You can let people go to the warps using the command warp",
+  "source": "@site/docs/tutorial-basics/warps.md",
+  "sourceDirName": "tutorial-basics",
+  "slug": "/tutorial-basics/warps",
+  "permalink": "/docs/tutorial-basics/warps",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Changing the modules",
+    "permalink": "/docs/tutorial-basics/modules"
+  }
+}

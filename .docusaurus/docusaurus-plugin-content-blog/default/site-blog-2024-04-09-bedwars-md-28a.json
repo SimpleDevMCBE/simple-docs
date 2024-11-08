@@ -1,0 +1,44 @@
+{
+  "permalink": "/blog/Slug",
+  "source": "@site/blog/2024-04-09-bedwars.md",
+  "title": "Bedwars",
+  "description": "Bedwars Is Cool So i Wanted To Make It My Self But My Dumb As Dosent Know How To Build So I Would Love Help With Building The Maps And Lobby If You Want To Help Dm On Discord :)",
+  "date": "2024-04-09T00:00:00.000Z",
+  "tags": [
+    {
+      "label": "Bedwars",
+      "permalink": "/blog/tags/bedwars"
+    }
+  ],
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "RexyCloudy",
+      "title": "Azalea Admin",
+      "url": "https://www.youtube.com/watch?v=xvFZjo5PgG0",
+      "image_url": "https://avatars.githubusercontent.com/u/152862703?v=4",
+      "imageURL": "https://avatars.githubusercontent.com/u/152862703?v=4"
+    }
+  ],
+  "frontMatter": {
+    "title": "Bedwars",
+    "slug": "Slug",
+    "tags": [
+      "Bedwars"
+    ],
+    "authors": [
+      {
+        "name": "RexyCloudy",
+        "title": "Azalea Admin",
+        "url": "https://www.youtube.com/watch?v=xvFZjo5PgG0",
+        "image_url": "https://avatars.githubusercontent.com/u/152862703?v=4",
+        "imageURL": "https://avatars.githubusercontent.com/u/152862703?v=4"
+      }
+    ]
+  },
+  "unlisted": false,
+  "nextItem": {
+    "title": "New Formats",
+    "permalink": "/blog/azalea-v2.2-format"
+  }
+}

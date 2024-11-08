@@ -1,0 +1,48 @@
+{
+  "permalink": "/blog/azalea-v2.2-format",
+  "source": "@site/blog/2024-04-09-new-formats.md",
+  "title": "New Formats",
+  "description": "Azalea has recently removed old sidebar and chat formats and has added a new system, go check it out!  (released in versions 2.2+)",
+  "date": "2024-04-09T00:00:00.000Z",
+  "tags": [
+    {
+      "label": "v2.2",
+      "permalink": "/blog/tags/v-2-2"
+    }
+  ],
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Voltrex ",
+      "title": "Azalea Blog Manager ",
+      "image_url": "/img/voltrex.png",
+      "url": "https://azalea.trashdev.org/voltrex",
+      "imageURL": "/img/voltrex.png"
+    }
+  ],
+  "frontMatter": {
+    "title": "New Formats",
+    "slug": "azalea-v2.2-format",
+    "tags": [
+      "v2.2"
+    ],
+    "authors": [
+      {
+        "name": "Voltrex ",
+        "title": "Azalea Blog Manager ",
+        "image_url": "/img/voltrex.png",
+        "url": "https://azalea.trashdev.org/voltrex",
+        "imageURL": "/img/voltrex.png"
+      }
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Bedwars",
+    "permalink": "/blog/Slug"
+  },
+  "nextItem": {
+    "title": "Guys please support me",
+    "permalink": "/blog/Trash-gay"
+  }
+}

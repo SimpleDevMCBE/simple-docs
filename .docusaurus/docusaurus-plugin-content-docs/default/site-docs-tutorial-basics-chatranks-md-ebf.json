@@ -1,0 +1,26 @@
+{
+  "id": "tutorial-basics/chatranks",
+  "title": "Chat ranks",
+  "description": "You can add chat ranks to yourself with the Ranks UI or /tag.",
+  "source": "@site/docs/tutorial-basics/chatranks.md",
+  "sourceDirName": "tutorial-basics",
+  "slug": "/tutorial-basics/chatranks",
+  "permalink": "/docs/tutorial-basics/chatranks",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Getting Admin Panel",
+    "permalink": "/docs/tutorial-basics/getting_admin_panel"
+  },
+  "next": {
+    "title": "Changing the prefix",
+    "permalink": "/docs/tutorial-basics/prefix"
+  }
+}

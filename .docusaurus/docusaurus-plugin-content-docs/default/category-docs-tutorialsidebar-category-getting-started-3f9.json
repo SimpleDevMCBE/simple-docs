@@ -1,0 +1,16 @@
+{
+  "title": "Getting Started",
+  "description": "Getting started with Simple Essentials.",
+  "slug": "/category/getting-started",
+  "permalink": "/docs/category/getting-started",
+  "navigation": {
+    "previous": {
+      "title": "Simple Essentials",
+      "permalink": "/docs/intro"
+    },
+    "next": {
+      "title": "Installation",
+      "permalink": "/docs/tutorial-basics/installation"
+    }
+  }
+}

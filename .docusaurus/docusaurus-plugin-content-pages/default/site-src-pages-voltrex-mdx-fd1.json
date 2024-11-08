@@ -1,0 +1,9 @@
+{
+  "type": "mdx",
+  "permalink": "/voltrex",
+  "source": "@site/src/pages/voltrex.mdx",
+  "title": "Voltrex",
+  "description": "Azalea blog post manager",
+  "frontMatter": {},
+  "unlisted": false
+}

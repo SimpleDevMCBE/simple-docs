@@ -1,0 +1,44 @@
+{
+  "permalink": "/blog/blog-update",
+  "source": "@site/blog/2021-11-15-first-blog-post.md",
+  "title": "Blog update",
+  "description": "I now have a content management system for blog posts!",
+  "date": "2021-11-15T00:00:00.000Z",
+  "tags": [
+    {
+      "label": "updates",
+      "permalink": "/blog/tags/updates"
+    }
+  ],
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "image_url": "https://github.com/Ant767.png",
+      "url": "https://github.com/Ant767",
+      "title": "Azalea Owner",
+      "name": "TRASH",
+      "imageURL": "https://github.com/Ant767.png"
+    }
+  ],
+  "frontMatter": {
+    "title": "Blog update",
+    "slug": "blog-update",
+    "tags": [
+      "updates"
+    ],
+    "authors": [
+      {
+        "image_url": "https://github.com/Ant767.png",
+        "url": "https://github.com/Ant767",
+        "title": "Azalea Owner",
+        "name": "TRASH",
+        "imageURL": "https://github.com/Ant767.png"
+      }
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "New Version Archive",
+    "permalink": "/blog/trash"
+  }
+}

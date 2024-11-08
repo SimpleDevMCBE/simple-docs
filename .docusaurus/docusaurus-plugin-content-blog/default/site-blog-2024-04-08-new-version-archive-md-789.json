@@ -1,0 +1,48 @@
+{
+  "permalink": "/blog/trash",
+  "source": "@site/blog/2024-04-08-new-version-archive.md",
+  "title": "New Version Archive",
+  "description": "This is where you can get development builds now! have fun",
+  "date": "2024-04-08T00:00:00.000Z",
+  "tags": [
+    {
+      "label": "updates",
+      "permalink": "/blog/tags/updates"
+    }
+  ],
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "url": "https://github.com/Ant767",
+      "image_url": "/img/trash-can.png",
+      "title": "Azalea Owner",
+      "name": "TRASH",
+      "imageURL": "/img/trash-can.png"
+    }
+  ],
+  "frontMatter": {
+    "title": "New Version Archive",
+    "slug": "trash",
+    "tags": [
+      "updates"
+    ],
+    "authors": [
+      {
+        "url": "https://github.com/Ant767",
+        "image_url": "/img/trash-can.png",
+        "title": "Azalea Owner",
+        "name": "TRASH",
+        "imageURL": "/img/trash-can.png"
+      }
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "Guys please support me",
+    "permalink": "/blog/Trash-gay"
+  },
+  "nextItem": {
+    "title": "Blog update",
+    "permalink": "/blog/blog-update"
+  }
+}

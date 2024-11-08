@@ -1,0 +1,116 @@
+{
+  "pluginId": "default",
+  "version": "current",
+  "label": "Next",
+  "banner": null,
+  "badge": false,
+  "noIndex": false,
+  "className": "docs-version-current",
+  "isLast": true,
+  "docsSidebars": {
+    "tutorialSidebar": [
+      {
+        "type": "link",
+        "label": "Simple Essentials",
+        "href": "/docs/intro",
+        "docId": "intro",
+        "unlisted": false
+      },
+      {
+        "type": "category",
+        "label": "Getting Started",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Installation",
+            "href": "/docs/tutorial-basics/installation",
+            "docId": "tutorial-basics/installation",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Getting Admin Panel",
+            "href": "/docs/tutorial-basics/getting_admin_panel",
+            "docId": "tutorial-basics/getting_admin_panel",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Chat ranks",
+            "href": "/docs/tutorial-basics/chatranks",
+            "docId": "tutorial-basics/chatranks",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Changing the prefix",
+            "href": "/docs/tutorial-basics/prefix",
+            "docId": "tutorial-basics/prefix",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Changing the modules",
+            "href": "/docs/tutorial-basics/modules",
+            "docId": "tutorial-basics/modules",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Setting up Warps",
+            "href": "/docs/tutorial-basics/warps",
+            "docId": "tutorial-basics/warps",
+            "unlisted": false
+          }
+        ],
+        "href": "/docs/category/getting-started"
+      }
+    ]
+  },
+  "docs": {
+    "intro": {
+      "id": "intro",
+      "title": "Simple Essentials",
+      "description": "Welcome to the Simple Essentials Documentation",
+      "sidebar": "tutorialSidebar"
+    },
+    "tutorial-basics/chatranks": {
+      "id": "tutorial-basics/chatranks",
+      "title": "Chat ranks",
+      "description": "You can add chat ranks to yourself with the Ranks UI or /tag.",
+      "sidebar": "tutorialSidebar"
+    },
+    "tutorial-basics/getting_admin_panel": {
+      "id": "tutorial-basics/getting_admin_panel",
+      "title": "Getting Admin Panel",
+      "description": "Do /give @s essentials:admin",
+      "sidebar": "tutorialSidebar"
+    },
+    "tutorial-basics/installation": {
+      "id": "tutorial-basics/installation",
+      "title": "Installation",
+      "description": "Install the latest version (0.1.6) below",
+      "sidebar": "tutorialSidebar"
+    },
+    "tutorial-basics/modules": {
+      "id": "tutorial-basics/modules",
+      "title": "Changing the modules",
+      "description": "You can change how Simple Essentials behaves in the Modules UI.",
+      "sidebar": "tutorialSidebar"
+    },
+    "tutorial-basics/prefix": {
+      "id": "tutorial-basics/prefix",
+      "title": "Changing the prefix",
+      "description": "You can change the prefix in Simple Essentials by navigating to:",
+      "sidebar": "tutorialSidebar"
+    },
+    "tutorial-basics/warps": {
+      "id": "tutorial-basics/warps",
+      "title": "Setting up Warps",
+      "description": "You can let people go to the warps using the command warp",
+      "sidebar": "tutorialSidebar"
+    }
+  }
+}

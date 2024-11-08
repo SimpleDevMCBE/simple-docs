@@ -1,0 +1,102 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "intro",
+              "path": "/docs/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-basics/chatranks",
+              "path": "/docs/tutorial-basics/chatranks",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-basics/getting_admin_panel",
+              "path": "/docs/tutorial-basics/getting_admin_panel",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-basics/installation",
+              "path": "/docs/tutorial-basics/installation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-basics/modules",
+              "path": "/docs/tutorial-basics/modules",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-basics/prefix",
+              "path": "/docs/tutorial-basics/prefix",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-basics/warps",
+              "path": "/docs/tutorial-basics/warps",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/getting-started",
+              "path": "/docs/category/getting-started",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/docs/intro",
+                "label": "intro"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    },
+    "community": {
+      "path": "/community",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/community",
+          "mainDocId": "welcome",
+          "docs": [
+            {
+              "id": "forums",
+              "path": "/community/forums",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "welcome",
+              "path": "/community/welcome",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/community/welcome",
+                "label": "welcome"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

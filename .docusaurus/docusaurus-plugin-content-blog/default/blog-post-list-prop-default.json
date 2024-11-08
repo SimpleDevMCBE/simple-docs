@@ -1,0 +1,30 @@
+{
+  "title": "Recent posts",
+  "items": [
+    {
+      "title": "Bedwars",
+      "permalink": "/blog/Slug",
+      "unlisted": false
+    },
+    {
+      "title": "New Formats",
+      "permalink": "/blog/azalea-v2.2-format",
+      "unlisted": false
+    },
+    {
+      "title": "Guys please support me",
+      "permalink": "/blog/Trash-gay",
+      "unlisted": false
+    },
+    {
+      "title": "New Version Archive",
+      "permalink": "/blog/trash",
+      "unlisted": false
+    },
+    {
+      "title": "Blog update",
+      "permalink": "/blog/blog-update",
+      "unlisted": false
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "permalink": "/blog/Trash-gay",
+  "source": "@site/blog/2024-04-08-icon-list-update.md",
+  "title": "Guys please support me",
+  "description": "I'm officially coming out gay 🌈 I hope you support me daddies :3",
+  "date": "2024-04-08T00:00:00.000Z",
+  "tags": [
+    {
+      "label": "special",
+      "permalink": "/blog/tags/special"
+    }
+  ],
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Voltrex",
+      "title": "Azalea Blog Manager",
+      "url": "https://azalea.trashdev.org/voltrex",
+      "image_url": "/img/voltrex.png",
+      "imageURL": "/img/voltrex.png"
+    }
+  ],
+  "frontMatter": {
+    "title": "Guys please support me",
+    "slug": "Trash-gay",
+    "tags": [
+      "special"
+    ],
+    "authors": [
+      {
+        "name": "Voltrex",
+        "title": "Azalea Blog Manager",
+        "url": "https://azalea.trashdev.org/voltrex",
+        "image_url": "/img/voltrex.png",
+        "imageURL": "/img/voltrex.png"
+      }
+    ]
+  },
+  "unlisted": false,
+  "prevItem": {
+    "title": "New Formats",
+    "permalink": "/blog/azalea-v2.2-format"
+  },
+  "nextItem": {
+    "title": "New Version Archive",
+    "permalink": "/blog/trash"
+  }
+}
