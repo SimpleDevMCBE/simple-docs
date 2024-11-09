@@ -46,8 +46,23 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "tutorial-features/platformSettings",
+              "path": "/docs/tutorial-features/platformSettings",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-features/ui-builder",
+              "path": "/docs/tutorial-features/ui-builder",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "/category/getting-started",
               "path": "/docs/category/getting-started",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/features",
+              "path": "/docs/category/features",
               "sidebar": "tutorialSidebar"
             }
           ],

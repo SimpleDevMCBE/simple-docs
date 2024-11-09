@@ -15,7 +15,7 @@ export default {
   },
   "title": "Simple Essentials",
   "tagline": "Very simple essentials addon",
-  "favicon": "img/",
+  "favicon": "img/simplelogo.png",
   "url": "https://simple.amethystdev.com",
   "baseUrl": "/",
   "organizationName": "AmethystDevbyFK",

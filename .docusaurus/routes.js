@@ -3,6 +3,41 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
+    path: '/__docusaurus/debug',
+    component: ComponentCreator('/__docusaurus/debug', 'eb7'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/config',
+    component: ComponentCreator('/__docusaurus/debug/config', '4c4'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/content',
+    component: ComponentCreator('/__docusaurus/debug/content', '07f'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/globalData',
+    component: ComponentCreator('/__docusaurus/debug/globalData', '3a4'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/metadata',
+    component: ComponentCreator('/__docusaurus/debug/metadata', '694'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/registry',
+    component: ComponentCreator('/__docusaurus/debug/registry', '8c1'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/routes',
+    component: ComponentCreator('/__docusaurus/debug/routes', '596'),
+    exact: true
+  },
+  {
     path: '/addons',
     component: ComponentCreator('/addons', 'dca'),
     exact: true
@@ -159,16 +194,22 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '179'),
+    component: ComponentCreator('/docs', '4e0'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', 'ee2'),
+        component: ComponentCreator('/docs', 'd3d'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '7b9'),
+            component: ComponentCreator('/docs', 'b46'),
             routes: [
+              {
+                path: '/docs/category/features',
+                component: ComponentCreator('/docs/category/features', 'be0'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
               {
                 path: '/docs/category/getting-started',
                 component: ComponentCreator('/docs/category/getting-started', '01f'),
@@ -214,6 +255,18 @@ export default [
               {
                 path: '/docs/tutorial-basics/warps',
                 component: ComponentCreator('/docs/tutorial-basics/warps', 'dd0'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/tutorial-features/platformSettings',
+                component: ComponentCreator('/docs/tutorial-features/platformSettings', '077'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/tutorial-features/ui-builder',
+                component: ComponentCreator('/docs/tutorial-features/ui-builder', 'db4'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               }

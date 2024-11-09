@@ -189,6 +189,58 @@
               "previous": {
                 "title": "Changing the modules",
                 "permalink": "/docs/tutorial-basics/modules"
+              },
+              "next": {
+                "title": "Features",
+                "permalink": "/docs/category/features"
+              }
+            },
+            {
+              "id": "tutorial-features/platformSettings",
+              "title": "Platform Tags & Bans",
+              "description": "Platform Tags and Bans are really easy to use, here's how!",
+              "source": "@site/docs/tutorial-features/platformSettings.md",
+              "sourceDirName": "tutorial-features",
+              "slug": "/tutorial-features/platformSettings",
+              "permalink": "/docs/tutorial-features/platformSettings",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "UI Builder",
+                "permalink": "/docs/tutorial-features/ui-builder"
+              }
+            },
+            {
+              "id": "tutorial-features/ui-builder",
+              "title": "UI Builder",
+              "description": "The UI Builder is the most advanced feature in Simple Essentials. Here's how to use it!",
+              "source": "@site/docs/tutorial-features/ui-builder.md",
+              "sourceDirName": "tutorial-features",
+              "slug": "/tutorial-features/ui-builder",
+              "permalink": "/docs/tutorial-features/ui-builder",
+              "draft": false,
+              "unlisted": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Features",
+                "permalink": "/docs/category/features"
+              },
+              "next": {
+                "title": "Platform Tags & Bans",
+                "permalink": "/docs/tutorial-features/platformSettings"
               }
             }
           ],
@@ -235,6 +287,28 @@
                   "description": "Getting started with Simple Essentials.",
                   "slug": "/category/getting-started",
                   "permalink": "/docs/category/getting-started"
+                }
+              },
+              {
+                "type": "category",
+                "label": "Features",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "tutorial-features/ui-builder"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "tutorial-features/platformSettings"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "description": "Features in Simple Essentials",
+                  "slug": "/category/features",
+                  "permalink": "/docs/category/features"
                 }
               }
             ]

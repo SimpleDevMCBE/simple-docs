@@ -66,6 +66,29 @@
           }
         ],
         "href": "/docs/category/getting-started"
+      },
+      {
+        "type": "category",
+        "label": "Features",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "UI Builder",
+            "href": "/docs/tutorial-features/ui-builder",
+            "docId": "tutorial-features/ui-builder",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Platform Tags & Bans",
+            "href": "/docs/tutorial-features/platformSettings",
+            "docId": "tutorial-features/platformSettings",
+            "unlisted": false
+          }
+        ],
+        "href": "/docs/category/features"
       }
     ]
   },
@@ -110,6 +133,18 @@
       "id": "tutorial-basics/warps",
       "title": "Setting up Warps",
       "description": "You can let people go to the warps using the command warp",
+      "sidebar": "tutorialSidebar"
+    },
+    "tutorial-features/platformSettings": {
+      "id": "tutorial-features/platformSettings",
+      "title": "Platform Tags & Bans",
+      "description": "Platform Tags and Bans are really easy to use, here's how!",
+      "sidebar": "tutorialSidebar"
+    },
+    "tutorial-features/ui-builder": {
+      "id": "tutorial-features/ui-builder",
+      "title": "UI Builder",
+      "description": "The UI Builder is the most advanced feature in Simple Essentials. Here's how to use it!",
       "sidebar": "tutorialSidebar"
     }
   }

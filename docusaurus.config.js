@@ -15,7 +15,7 @@ const config = {
   },
   title: 'Simple Essentials',
   tagline: 'Very simple essentials addon',
-  favicon: 'img/',
+  favicon: 'img/simplelogo.png',
 
   // Set the production url of your site here
   url: 'https://simple.amethystdev.com',

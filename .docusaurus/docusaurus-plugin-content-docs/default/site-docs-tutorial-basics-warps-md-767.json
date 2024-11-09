@@ -18,5 +18,9 @@
   "previous": {
     "title": "Changing the modules",
     "permalink": "/docs/tutorial-basics/modules"
+  },
+  "next": {
+    "title": "Features",
+    "permalink": "/docs/category/features"
   }
 }
