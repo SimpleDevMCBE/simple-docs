@@ -114,7 +114,7 @@
     "tutorial-basics/installation": {
       "id": "tutorial-basics/installation",
       "title": "Installation",
-      "description": "Install the latest version (0.1.6) below",
+      "description": "Install the latest version (0.1.7) below",
       "sidebar": "tutorialSidebar"
     },
     "tutorial-basics/modules": {
