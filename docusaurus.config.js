@@ -130,7 +130,7 @@ const config = {
           //   position: 'left'
           // },
           {
-            label: 'blog',
+            label: 'Blog',
             to: '/blog',
             position: 'left'
           },
