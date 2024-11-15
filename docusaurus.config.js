@@ -129,6 +129,11 @@ const config = {
           //   to: '/partnered',
           //   position: 'left'
           // },
+          {
+            label: 'blog',
+            to: '/blog',
+            position: 'left'
+          },
            {
              label: 'Discord',
              href: 'https://discord.gg/T4CUhhcdzh',
